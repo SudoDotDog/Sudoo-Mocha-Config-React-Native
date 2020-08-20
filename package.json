@@ -1,0 +1,19 @@
+{
+  "name": "@sudoo/mocha-config-react-native",
+  "version": "1.0.0",
+  "description": ":tea: Mocha configuration for TypeScript and React Native",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-Mocha-Config-React-Native.git"
+  },
+  "keywords": [
+    "Mocha"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-Mocha-Config-React-Native/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Sudoo-Mocha-Config-React-Native#readme"
+}
