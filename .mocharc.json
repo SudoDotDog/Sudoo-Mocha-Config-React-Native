@@ -1,0 +1,7 @@
+{
+    "spec": [
+        "test/**/*.test.ts",
+        "test/**/*.test.tsx"
+    ],
+    "loader": "@sudoo/mocha-config-react-native"
+}

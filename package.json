@@ -1,7 +1,7 @@
 {
   "name": "@sudoo/mocha-config-react-native",
-  "version": "1.1.0",
-  "description": ":tea: Mocha configuration for TypeScript and React Native",
+  "version": "3.1.0",
+  "description": "Mocha configuration for TypeScript and React Native",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
