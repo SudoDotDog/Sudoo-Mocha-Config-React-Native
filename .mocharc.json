@@ -3,5 +3,5 @@
         "test/**/*.test.ts",
         "test/**/*.test.tsx"
     ],
-    "loader": "@sudoo/mocha-config-react-native"
+    "require": "@sudoo/mocha-config-react-native"
 }
